@@ -1,5 +1,5 @@
 # Swift Application: NavigOtaku
-<img style="border-radius: 20px; margin: 5px" src="./NavigOtaku/Assets.xcassets/AppIcon.appiconset/App_Icon.png" width="200" height="200">
+<img style="border-radius: 20px; margin: 5px" src="./NavigOtaku/Assets.xcassets/App_Icon.imageset/App_Icon@3x.png" width="200" height="200">
 
 ## Project Information
 #### Author: Wentao Jiang
